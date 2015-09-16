@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大陀羅尼末法中一字心經
+#+DATE: 2015-08-30 20:26:35.684130
+#+PROPERTY: JUAN 0
